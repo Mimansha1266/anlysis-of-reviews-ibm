@@ -8,6 +8,13 @@ This internship project demonstrates applied skills in text classification, natu
 
 Key features include a full preprocessing pipeline, effective feature extraction, robust classification, and detailed evaluation.
 
+## 🛠️ Technologies Used
+- **Python 3.8+**
+- **Libraries**: pandas, numpy, nltk, scikit-learn, matplotlib, seaborn
+- **NLP Techniques**: Tokenization, Stopword Removal, Stemming, TF-IDF Vectorization
+- **Machine Learning**: Multinomial Naive Bayes Classifier
+- **Evaluation Metrics**: Confusion Matrix, Accuracy, Precision, Recall
+
 ## ⚙️ Features
 
 - **Multiclass Sentiment Classification**: Automatically categorizes reviews into positive, negative, and neutral classes.
@@ -65,6 +72,14 @@ Key features include a full preprocessing pipeline, effective feature extraction
 2. Install dependencies
 3. Open `analysis_of_reviews.ipynb` in Jupyter Notebook/VS Code
 4. Run all cells sequentially
+
+   ## 📋 Implementation Highlights
+- Complete text preprocessing pipeline
+- TF-IDF feature extraction with optimal parameters
+- Naive Bayes classification with Laplace smoothing
+- Comprehensive evaluation metrics
+- Visualization of results
+- New review prediction capability
 ### 🔮 Future Enhancements
 - Implement additional ML algorithms (SVM, Logistic Regression)
 - Add cross-validation for robust performance assessment
@@ -74,8 +89,10 @@ Key features include a full preprocessing pipeline, effective feature extraction
 - 
 - ## 👤 Author
 **[Mimansha]** - IBM Internship Candidate
-- Project Duration: [8/2025]
-- Contact: []
+- Project Duration: [07/2025]
+- Contact: [chaudharymimansha126@gmail.com]
+### 📄 License
+This project is created for educational purposes as part of IBM Internship program.  
 
 
 
